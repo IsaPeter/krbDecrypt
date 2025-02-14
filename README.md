@@ -4,6 +4,8 @@
 
 **Kerberos Ticket Decryptor** is a Python script designed to decrypt Kerberos TGT and Service Tickets for analysis and security research. It extracts authentication and PAC (Privilege Attribute Certificate) data, helping in forensic investigations and penetration testing.
 
+The original code which is the base of this script is available from the following repository: [https://gist.github.com/xan7r/ca99181e3d45ee2042425f4f9181e614#file-decryptkerbticket-py](https://gist.github.com/xan7r/ca99181e3d45ee2042425f4f9181e614#file-decryptkerbticket-py)
+
 ## Features
 
 - Supports decryption of **TGT** and **TGS** tickets.
